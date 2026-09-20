@@ -3,8 +3,11 @@
   { "name": "JavaScript", "image": "/assets/skills/javascript.png", "category": "Languages" },
   { "name": "HTML", "image": "/assets/skills/html.png", "category": "Languages" },
   { "name": "CSS", "image": "/assets/skills/css.png", "category": "Languages" },
-  { "name": "VB.NET", "image": "/assets/skills/vb.png", "category": "Languages" },
+  { "name": "Visual Basic", "image": "/assets/skills/vb.png", "category": "Languages" },
   { "name": "Django", "image": "/assets/skills/django.png", "category": "Frameworks & Tools" },
   { "name": "Git & GitHub", "image": "/assets/skills/github2.png", "category": "Frameworks & Tools" },
-  { "name": "Arduino", "image": "/assets/skills/arduino.png", "category": "Frameworks & Tools" }
+  { "name": "Arduino", "image": "/assets/skills/arduino.png", "category": "Frameworks & Tools" },
+  { "name": "Playwright", "image": "/assets/skills/Playwright.png", "category": "Frameworks & Tools" },
+  { "name": "ESP32", "image": "/assets/skills/ESP32.png", "category": "Skills in Development" },
+  { "name": "KiCAD", "image": "/assets/skills/KiCad.png", "category": "Skills in Development" }
 ]

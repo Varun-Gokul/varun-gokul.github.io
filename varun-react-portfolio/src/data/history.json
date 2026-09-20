@@ -4,7 +4,7 @@
     "organisation": "Nokia",
     "startDate": "July 6, 2026",
     "endDate": "August 21, 2026",
-    "experiences": ["Developed test cases to test end-to-end functionality Nokia's Migration Tool using Playwright"],
+    "experiences": ["• Developed 10+ test cases using Playwright to test end-to-end functionality Nokia's Migration Tool, catching and fixing many bugs before customer delivery", "• Engineered a custom flow using Power Automate and Python to automate timewriting email reminder alert process saving employees countless hours every week", "• Verified multiple Cursor Skill files to ensure regulation with Nokia's guidelines to improve AI Agent behaviour"],
     "imageSrc": "/assets/history/nokia.png"
   },
   {
@@ -12,7 +12,7 @@
     "organisation": "Spark Youth Robotics Club (Team 8729)",
     "startDate": "July 2025",
     "endDate": "June 2026",
-    "experiences": ["Programmed subsystems and commands for intake, outtake, and vision for 2026 robot (FRC REBUILT CHALLENGE)"],
+    "experiences": ["• Programmed subsystems and commands for intake and outtake of 2026 robot for FRC REBUILT CHALLENGE", "• Collaborated with mechanical and electrical team members to test, debug, and optimize robot functionality.", "• Served as Scouting Lead during a FIRST Robotics competition, coordinating scouting efforts and analyzing competitor performance to support match strategy and alliance selection."],
     "imageSrc": "/assets/history/frc.png"
   },
   {
@@ -20,7 +20,7 @@
     "organisation": "Spark Youth Robotics Club (Team 8729)",
     "startDate": "September 2025",
     "endDate": "December 2025",
-    "experiences": ["Taught coding and robotics to kids aged 6 to 10 using fun interactive activites with the help of LEGO"],
+    "experiences": ["• Led weekly mentoring sessions for students ages 6–10,introducing core concepts in coding and robotics.", "• Guided students in building and programming LEGO-based robots to solve simple challenges", "• Encouraged problem-solving, teamwork, and creative thinking in a hands-on learning environment."],
     "imageSrc": "/assets/history/fll.png"
   },
   {
@@ -28,7 +28,7 @@
     "organisation": "UOttawa",
     "startDate": "June 30, 2025",
     "endDate": "July 4, 2025",
-    "experiences": ["Helped students develop fluency in STEM while mentoring and building leadership skills"],
+    "experiences": ["• Helped students develop fluency in STEM while mentoring and building leadership skills", "• Organized coding and STEM activities for kids and visitors during outreach events.", "• Learned more about science and technology while supporting hands-on projects."],
     "imageSrc": "/assets/history/volunteer.png"
   },
   {
@@ -36,7 +36,7 @@
     "organisation": "Holy Trinity Catholic High School",
     "startDate": "September 2023",
     "endDate": "June 2026",
-    "experiences": ["Helped create lessons to provide personalized assistance in math and science (Grades 7 - 10)."],
+    "experiences": ["• Provided one-on-one and small-group math tutoring for Grades 7 and 8 students", "• Supported Grade 10 science students by reinforcing key conceptsand exam preparation", "• Optimized lessons and provided personalized assistance to match each student's unique learning styles."],
     "imageSrc": "/assets/history/math.png"
   }
 ]
